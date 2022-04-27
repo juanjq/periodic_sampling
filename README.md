@@ -67,4 +67,8 @@ If we adjust the dt we can obtain as is expected better fitting results,
     <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/sampled2.png?raw=true">
 </p>
 
+And also if we increase the dt, we will obtain non accurate results,
 
+<p align="center">
+    <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/sampled3.png?raw=true">
+</p>
