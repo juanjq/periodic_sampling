@@ -1,5 +1,5 @@
 
-def resample(x,y,dt_init):
+def resample(x,y,dt):
 
     #periodically array with x positions
     sample_x = [x[0]+dt*i for i in range(int((x[-1]-x[0])/dt))]
