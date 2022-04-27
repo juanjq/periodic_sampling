@@ -57,8 +57,14 @@ plt.legend()
 plt.show()
 ```
 
-
-
 <p align="center">
     <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/sampled.png?raw=true">
 </p>
+
+If we adjust the dt we can obtain as is expected better fitting results,
+
+<p align="center">
+    <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/sampled2.png?raw=true">
+</p>
+
+
