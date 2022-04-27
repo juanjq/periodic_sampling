@@ -2,7 +2,7 @@
 def resample(x,y,dt):
 
     #periodically array with x positions
-    sample_x = [x[0]+dt*i for i in range(int((x[-1]-x[0])/dt))]
+    sample_x = [x[0]+dt*i for i in range(int((x[-1]-x[0])/dt)+1)]
     
 
     #iterating trough all the sampling
