@@ -10,9 +10,9 @@ with httpimport.remote_repo(['periodic_sampling'], 'https://raw.githubuserconten
 ```
 
 <p align="center">
-    <img align="center" src="https://github.com/juanjq/hamiltonian_matrix/blob/main/data/Ising_model.png?raw=true">
+    <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/data.png?raw=true">
 </p>
 
 <p align="center">
-    <img align="center" src="https://github.com/juanjq/hamiltonian_matrix/blob/main/data/Ising_model.png?raw=true">
+    <img align="center" src="https://github.com/juanjq/periodic_sampling/blob/main/data/sampled.png?raw=true">
 </p>
