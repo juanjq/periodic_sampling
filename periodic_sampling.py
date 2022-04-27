@@ -36,5 +36,5 @@ def resample(x,y,dt):
 
             sample_y.append(A+B*sample_x[i])
 
-    #return the arrays x, y resampled, and the real dt used for the sampling
+    #return the arrays x, y resampled
     return sample_x, sample_y
