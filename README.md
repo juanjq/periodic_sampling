@@ -1,8 +1,7 @@
 # periodic_sampling
-Periodic sampling for non-periodic data 
-A script to construct matrixes for different Hamiltonian definitions.
+A script to obtain periodic sampled data for non-periodic data given.
 
-For installing it you can do:
+For using it you can do:
 
 ```
 import httpimport
